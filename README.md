@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamal-thanki
 - 👀 I’m interested in DotNet Technologies
-- 🌱 I’m currently learning MVC
+- 🌱 I’m currently learning MVC and web technologies
 - 📫 How to reach me - kamal.thanki123@gmail.com
 
 <!---
